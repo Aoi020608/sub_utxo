@@ -1,2 +1,2 @@
-# Operator
+# GEO Stake
 
