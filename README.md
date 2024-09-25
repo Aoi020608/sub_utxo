@@ -1,2 +1,3 @@
 # GEO Stake
 
+## Getting started
