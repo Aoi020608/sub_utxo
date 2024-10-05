@@ -1,5 +1,7 @@
 # GEO Stake
 
+## Overview
+
 ## Getting started
 
 ## Resources
